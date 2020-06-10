@@ -1,3 +1,5 @@
+Stacked PR test 
+
 # React-Bingmaps
 ## Introduction
 React-Bingmaps is a react.js version of [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx)
